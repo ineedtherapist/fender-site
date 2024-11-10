@@ -1,0 +1,28 @@
+@import url('https://fonts.cdnfonts.com/css/futura-pt');
+
+body {
+    background-color: #f4f4f9;
+    font-family: 'Futura PT', sans-serif;
+}
+
+.header {
+    background-color: #000;
+    color: #fff;
+    padding: 20px 0;
+    margin-left: -100px; /* Adjust this value as needed */
+}
+
+.header h1 {
+    font-size: 3rem;
+}
+.description p {
+    color: #555;
+}
+.guitar-image img {
+    border-radius: 8px;
+}
+#logo1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
